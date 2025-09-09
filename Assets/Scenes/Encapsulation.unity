@@ -281,6 +281,7 @@ MonoBehaviour:
     simColour: {r: 1, g: 0.39138886, b: 0.111320674, a: 1}
   simPrefab: {fileID: 842613101031544277, guid: 027ddee44c9dc1a4dbfa978873c1a9d8, type: 3}
   simsHolder: {fileID: 955646218}
+  rangeEx: 5
 --- !u!1 &1550008086
 GameObject:
   m_ObjectHideFlags: 0
